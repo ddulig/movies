@@ -1,0 +1,16 @@
+@import '../../node_modules/foundation-sites/scss/foundation';
+
+@include foundation-xy-grid-classes;
+@include foundation-flex-classes;
+@include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-prototype-classes;
+@include foundation-prototype-text-utilities;
+@include foundation-prototype-text-transformation;
+@include foundation-prototype-text-decoration;
+@include foundation-form-label;
+@include foundation-form-select;
+@include foundation-tabs;
+@include foundation-accordion;
+@include foundation-table;
+@include foundation-visibility-classes;

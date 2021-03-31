@@ -1,0 +1,17 @@
+{
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "Dropdown": {
+    "description": "Auto imported from components/Dropdown.vue"
+  },
+  "PageFooter": {
+    "description": "Auto imported from components/PageFooter.vue"
+  },
+  "PageHeader": {
+    "description": "Auto imported from components/PageHeader.vue"
+  },
+  "SideMenu": {
+    "description": "Auto imported from components/SideMenu.vue"
+  }
+}
